@@ -8,17 +8,17 @@ The project started as a simple Ping Pong ranking app, that i have used to play 
 
 ## Preview
 
-> Recommended screenshot: main dashboard showing the player profile, current Elo, and navigation tabs.
 
-![App dashboard screenshot](docs/screenshots/dashboard.png)
 
-> Recommended screenshot: Spikeball match creation screen.
+![App dashboard screenshot](docs/screenshots/dashboard.jpeg)
 
-![Spikeball match creation screenshot](docs/screenshots/spikeball-new-match.png)
 
-> Recommended screenshot: tournament screen showing an active tournament match.
 
-![Tournament screen screenshot](docs/screenshots/tournament-active.png)
+![Spikeball match creation screenshot](docs/screenshots/spikeball-creategame.jpeg)
+
+
+
+![Tournament screen screenshot](docs/screenshots/spikeball-createtournament.jpeg)
 
 ---
 
@@ -89,9 +89,9 @@ Real-time updates include:
 
 The app includes a tournament mode available in both Ping Pong and Spikeball.
 
-> Recommended screenshot: tournament creation form.
 
-![Tournament creation screenshot](docs/screenshots/tournament-create.png)
+
+![Tournament creation screenshot](docs/screenshots/spikeball-createtournament.jpeg)
 
 ### Tournament Types
 
@@ -154,9 +154,8 @@ Players can earn trophies based on tournament results.
 
 Trophies are displayed in the player profile.
 
-> Recommended screenshot: player profile showing trophies.
 
-![Trophies screenshot](docs/screenshots/trophies.png)
+![Trophies screenshot](docs/screenshots/dashboard.jpeg)
 
 ---
 
@@ -181,9 +180,8 @@ Tournament names are generated based on the number of participants:
 - **Tournament**: 5 to 8 participants.
 - **SuperTournament**: 9 or more participants.
 
-> Recommended screenshot: tournament history page.
 
-![Tournament history screenshot](docs/screenshots/tournament-history.png)
+![Tournament history screenshot](docs/screenshots/tournament-history.jpeg)
 
 ---
 
@@ -364,41 +362,25 @@ npm.cmd run deploy
 
 ---
 
-## Suggested Screenshots to Add
+## More Screenshots
 
-To make this project stand out to recruiters and interviewers, add screenshots in the `docs/screenshots/` folder.
 
-Recommended screenshots:
 
 1. **Login screen**
-   - Shows the authentication flow.
+   ![Tournament history screenshot](docs/screenshots/login.jpeg)
 
 2. **Player profile**
-   - Shows Elo, wins, losses, matches played, and trophies.
+  ![Tournament history screenshot](docs/screenshots/dashboard.jpeg)
 
-3. **Ping Pong match request**
-   - Shows the 1v1 challenge flow.
 
-4. **Ping Pong active match**
-   - Shows winner confirmation and Elo preview.
+3. **Leaderboard**
+  ![Tournament history screenshot](docs/screenshots/leaderboard.jpeg)
 
-5. **Spikeball match creation**
-   - Shows teammate and opponent selection.
+4. **Match history**
+  ![Tournament history screenshot](docs/screenshots/match-history.jpeg)
 
-6. **Spikeball result submission**
-   - Shows team score input.
-
-7. **Leaderboard**
-   - Shows official and unclassified rankings.
-
-8. **Tournament creation**
-   - Shows sport, format, participants, and Elo options.
-
-9. **Active tournament**
-   - Shows current match, waiting state, or pending matches.
-
-10. **Tournament history**
-    - Shows completed tournaments and podium results.
+5. **Tournament history**
+  ![Tournament history screenshot](docs/screenshots/tournament-history.jpeg)
 
 ---
 
