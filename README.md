@@ -2,7 +2,7 @@
 
 A full-stack web application for tracking friendly but competitive Ping Pong and Spikeball matches with Elo ratings, real-time match updates, leaderboards, match history, and tournament support.
 
-The project started as a simple Ping Pong ranking app and evolved into a multi-sport competition platform with support for 1v1 Ping Pong, 2v2 Spikeball, Swiss-style tournaments, knockout brackets, player trophies, and automatic Elo calculations.
+The project started as a simple Ping Pong ranking app, that i have used to play with my friends and evolved into a multi-sport competition platform with support for 1v1 Ping Pong, 2v2 Spikeball, Swiss-style tournaments, knockout brackets, player trophies, and automatic Elo calculations.
 
 ---
 
@@ -471,7 +471,7 @@ Current core functionality includes:
 
 ## Author
 
-Built by **YOUR NAME** as a personal full-stack project focused on real-time competition tracking, ranking systems, and practical product design.
+Built by **Carlos Ivorra Salinas** as a personal full-stack project focused on real-time competition tracking, ranking systems, and practical product design.
 
 ---
 
